@@ -127,7 +127,7 @@ $register=get_field('consultation_register');
 <div class="heading text-center">
             <span class="left"></span>
             
-            <h1><?php  the_title('Услуги'); ?></h1>
+            <h1>Услуги</h1>
             <span class="right"></span>
         </div>
 <div class="container">
